@@ -3,4 +3,4 @@
 
 Listelerdeki isim ve soyadları için Türkçe Ebcet, Modern Numeroloji ve Türk Alfabe Sıra No numerolojisi değerlerini [Sahur Özel'in Ebced Hesaplayan Makrolarındaki Kullanıcı Tanımlı Fonksiyonlarla](https://github.com/metatronslove/abjad) hesaplattık.
 
-Burada sözü edilen Türkçe Ebcet değerleri ile Arapların kullandığı Ebced değerleri arasında bir uyum asla yoktur. Zaten listelerde isimlerin Arap alfabesi ile yazılmış okuma karşılıkları da mevcut değildir. '''Türkçe İsim Listesi için Numerolojik kayıtlar.ods''' dosyasına fonksiyonları içeren makro kodları iliştirilmiştir.
+Burada sözü edilen Türkçe Ebcet değerleri ile Arapların kullandığı Ebced değerleri arasında bir uyum asla yoktur. Zaten listelerde isimlerin Arap alfabesi ile yazılmış okuma karşılıkları da mevcut değildir. ```Türkçe İsim Listesi için Numerolojik kayıtlar.ods``` dosyasına fonksiyonları içeren makro kodları iliştirilmiştir.
