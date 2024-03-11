@@ -1,2 +1,6 @@
-# Returned-Numerologic-Values-for-Turkish-Name-and-Surnames
-Using SpreadSheet software and some userdefined functions we calculated numerologic values depends on name lists
+# Türkçe İsimler için Numerolojik Kayıtlar
+## Arama motoru kullanarak rastgele isim listeleri edindim...
+
+Listelerdeki isim ve soyadları için Türkçe Ebcet, Modern Numeroloji ve Türk Alfabe Sıra No numerolojisi değerlerini [Sahur Özel'in Ebced Hesaplayan Makrolarındaki Kullanıcı Tanımlı Fonksiyonlarla](https://github.com/metatronslove/abjad)yla hesaplattık.
+
+Burada sözü edilen Türkçe Ebcet değerleri ile Arapların kullandığı Ebced değerleri arasında bir uyum asla yoktur. Zaten listelerde isimlerin Arap alfabesi ile yazılmış okuma karşılıkları da mevcut değildir.
